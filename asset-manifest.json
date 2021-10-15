@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sarafraz-first-page-react/static/css/main.b25b18d9.chunk.css",
+    "main.js": "/sarafraz-first-page-react/static/js/main.c81575a4.chunk.js",
+    "main.js.map": "/sarafraz-first-page-react/static/js/main.c81575a4.chunk.js.map",
+    "runtime-main.js": "/sarafraz-first-page-react/static/js/runtime-main.1bb3c479.js",
+    "runtime-main.js.map": "/sarafraz-first-page-react/static/js/runtime-main.1bb3c479.js.map",
+    "static/js/2.aa4bc595.chunk.js": "/sarafraz-first-page-react/static/js/2.aa4bc595.chunk.js",
+    "static/js/2.aa4bc595.chunk.js.map": "/sarafraz-first-page-react/static/js/2.aa4bc595.chunk.js.map",
+    "static/js/3.812a760b.chunk.js": "/sarafraz-first-page-react/static/js/3.812a760b.chunk.js",
+    "static/js/3.812a760b.chunk.js.map": "/sarafraz-first-page-react/static/js/3.812a760b.chunk.js.map",
+    "index.html": "/sarafraz-first-page-react/index.html",
+    "static/css/main.b25b18d9.chunk.css.map": "/sarafraz-first-page-react/static/css/main.b25b18d9.chunk.css.map",
+    "static/js/2.aa4bc595.chunk.js.LICENSE.txt": "/sarafraz-first-page-react/static/js/2.aa4bc595.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/sarafraz-first-page-react/static/media/wave.0f25d962.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bb3c479.js",
+    "static/js/2.aa4bc595.chunk.js",
+    "static/css/main.b25b18d9.chunk.css",
+    "static/js/main.c81575a4.chunk.js"
+  ]
+}
