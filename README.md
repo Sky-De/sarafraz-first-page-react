@@ -1,4 +1,5 @@
 # Home page of sarafraz company website(DEPLOYED on GH-PAGES)
+## design is not mine(its just a clone of real website)
 
 ### Built for
 - 375px 
